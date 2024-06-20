@@ -1,0 +1,66 @@
+C:\Users\dharm\Desktop\Slidely AI Task 2\Slidely AI Task 2\obj\Debug\Slidely AI Task 2.vbproj.AssemblyReference.cache
+C:\Users\dharm\Desktop\Slidely AI Task 2\Slidely AI Task 2\obj\Debug\Slidely_AI_Task_2.Form1.resources
+C:\Users\dharm\Desktop\Slidely AI Task 2\Slidely AI Task 2\obj\Debug\Slidely_AI_Task_2.Resources.resources
+C:\Users\dharm\Desktop\Slidely AI Task 2\Slidely AI Task 2\obj\Debug\Slidely AI Task 2.vbproj.GenerateResource.cache
+C:\Users\dharm\Desktop\Slidely AI Task 2\Slidely AI Task 2\obj\Debug\Slidely AI Task 2.vbproj.CoreCompileInputs.cache
+C:\Users\dharm\Desktop\Slidely AI Task 2\Slidely AI Task 2\bin\Debug\Slidely AI Task 2.exe.config
+C:\Users\dharm\Desktop\Slidely AI Task 2\Slidely AI Task 2\bin\Debug\Slidely AI Task 2.exe
+C:\Users\dharm\Desktop\Slidely AI Task 2\Slidely AI Task 2\bin\Debug\Slidely AI Task 2.pdb
+C:\Users\dharm\Desktop\Slidely AI Task 2\Slidely AI Task 2\bin\Debug\Slidely AI Task 2.xml
+C:\Users\dharm\Desktop\Slidely AI Task 2\Slidely AI Task 2\obj\Debug\Slidely AI Task 2.exe
+C:\Users\dharm\Desktop\Slidely AI Task 2\Slidely AI Task 2\obj\Debug\Slidely AI Task 2.xml
+C:\Users\dharm\Desktop\Slidely AI Task 2\Slidely AI Task 2\obj\Debug\Slidely AI Task 2.pdb
+C:\Users\dharm\Desktop\Slidely AI Task 2\Slidely AI Task 2\obj\Debug\Slidely_AI_Task_2.ViewSubmissionsForm.resources
+C:\Users\dharm\Desktop\Slidely AI Task 2\Slidely AI Task 2\obj\Debug\Slidely_AI_Task_2.CreateSubmission.resources
+C:\Users\dharm\Desktop\Slidely AI Task 2\Slidely AI Task 2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dharm\Desktop\Slidely AI Task 2\Slidely AI Task 2\bin\Debug\System.Buffers.dll
+C:\Users\dharm\Desktop\Slidely AI Task 2\Slidely AI Task 2\bin\Debug\System.Memory.dll
+C:\Users\dharm\Desktop\Slidely AI Task 2\Slidely AI Task 2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dharm\Desktop\Slidely AI Task 2\Slidely AI Task 2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dharm\Desktop\Slidely AI Task 2\Slidely AI Task 2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\dharm\Desktop\Slidely AI Task 2\Slidely AI Task 2\bin\Debug\System.Text.Json.dll
+C:\Users\dharm\Desktop\Slidely AI Task 2\Slidely AI Task 2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\dharm\Desktop\Slidely AI Task 2\Slidely AI Task 2\bin\Debug\System.ValueTuple.dll
+C:\Users\dharm\Desktop\Slidely AI Task 2\Slidely AI Task 2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\dharm\Desktop\Slidely AI Task 2\Slidely AI Task 2\bin\Debug\System.Buffers.xml
+C:\Users\dharm\Desktop\Slidely AI Task 2\Slidely AI Task 2\bin\Debug\System.Memory.xml
+C:\Users\dharm\Desktop\Slidely AI Task 2\Slidely AI Task 2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dharm\Desktop\Slidely AI Task 2\Slidely AI Task 2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dharm\Desktop\Slidely AI Task 2\Slidely AI Task 2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\dharm\Desktop\Slidely AI Task 2\Slidely AI Task 2\bin\Debug\System.Text.Json.xml
+C:\Users\dharm\Desktop\Slidely AI Task 2\Slidely AI Task 2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\dharm\Desktop\Slidely AI Task 2\Slidely AI Task 2\bin\Debug\System.ValueTuple.xml
+C:\Users\dharm\Desktop\Slidely AI Task 2\Slidely AI Task 2\obj\Debug\Slidely .741804BF.Up2Date
+C:\Users\Dell 5408 10i5\Source\Repos\Slidely-AI-Internship-Task\bin\Debug\Slidely AI Task 2.exe.config
+C:\Users\Dell 5408 10i5\Source\Repos\Slidely-AI-Internship-Task\bin\Debug\Slidely AI Task 2.exe
+C:\Users\Dell 5408 10i5\Source\Repos\Slidely-AI-Internship-Task\bin\Debug\Slidely AI Task 2.pdb
+C:\Users\Dell 5408 10i5\Source\Repos\Slidely-AI-Internship-Task\bin\Debug\Slidely AI Task 2.xml
+C:\Users\Dell 5408 10i5\Source\Repos\Slidely-AI-Internship-Task\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dell 5408 10i5\Source\Repos\Slidely-AI-Internship-Task\bin\Debug\System.Buffers.dll
+C:\Users\Dell 5408 10i5\Source\Repos\Slidely-AI-Internship-Task\bin\Debug\System.Memory.dll
+C:\Users\Dell 5408 10i5\Source\Repos\Slidely-AI-Internship-Task\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Dell 5408 10i5\Source\Repos\Slidely-AI-Internship-Task\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Dell 5408 10i5\Source\Repos\Slidely-AI-Internship-Task\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Dell 5408 10i5\Source\Repos\Slidely-AI-Internship-Task\bin\Debug\System.Text.Json.dll
+C:\Users\Dell 5408 10i5\Source\Repos\Slidely-AI-Internship-Task\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Dell 5408 10i5\Source\Repos\Slidely-AI-Internship-Task\bin\Debug\System.ValueTuple.dll
+C:\Users\Dell 5408 10i5\Source\Repos\Slidely-AI-Internship-Task\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Dell 5408 10i5\Source\Repos\Slidely-AI-Internship-Task\bin\Debug\System.Buffers.xml
+C:\Users\Dell 5408 10i5\Source\Repos\Slidely-AI-Internship-Task\bin\Debug\System.Memory.xml
+C:\Users\Dell 5408 10i5\Source\Repos\Slidely-AI-Internship-Task\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Dell 5408 10i5\Source\Repos\Slidely-AI-Internship-Task\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Dell 5408 10i5\Source\Repos\Slidely-AI-Internship-Task\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Dell 5408 10i5\Source\Repos\Slidely-AI-Internship-Task\bin\Debug\System.Text.Json.xml
+C:\Users\Dell 5408 10i5\Source\Repos\Slidely-AI-Internship-Task\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Dell 5408 10i5\Source\Repos\Slidely-AI-Internship-Task\bin\Debug\System.ValueTuple.xml
+C:\Users\Dell 5408 10i5\Source\Repos\Slidely-AI-Internship-Task\obj\Debug\Slidely AI Task 2.vbproj.AssemblyReference.cache
+C:\Users\Dell 5408 10i5\Source\Repos\Slidely-AI-Internship-Task\obj\Debug\Slidely_AI_Task_2.CreateSubmission.resources
+C:\Users\Dell 5408 10i5\Source\Repos\Slidely-AI-Internship-Task\obj\Debug\Slidely_AI_Task_2.Form1.resources
+C:\Users\Dell 5408 10i5\Source\Repos\Slidely-AI-Internship-Task\obj\Debug\Slidely_AI_Task_2.Resources.resources
+C:\Users\Dell 5408 10i5\Source\Repos\Slidely-AI-Internship-Task\obj\Debug\Slidely_AI_Task_2.ViewSubmissionsForm.resources
+C:\Users\Dell 5408 10i5\Source\Repos\Slidely-AI-Internship-Task\obj\Debug\Slidely AI Task 2.vbproj.GenerateResource.cache
+C:\Users\Dell 5408 10i5\Source\Repos\Slidely-AI-Internship-Task\obj\Debug\Slidely AI Task 2.vbproj.CoreCompileInputs.cache
+C:\Users\Dell 5408 10i5\Source\Repos\Slidely-AI-Internship-Task\obj\Debug\Slidely .741804BF.Up2Date
+C:\Users\Dell 5408 10i5\Source\Repos\Slidely-AI-Internship-Task\obj\Debug\Slidely AI Task 2.exe
+C:\Users\Dell 5408 10i5\Source\Repos\Slidely-AI-Internship-Task\obj\Debug\Slidely AI Task 2.xml
+C:\Users\Dell 5408 10i5\Source\Repos\Slidely-AI-Internship-Task\obj\Debug\Slidely AI Task 2.pdb

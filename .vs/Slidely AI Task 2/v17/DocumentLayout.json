@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell 5408 10i5\\OneDrive\\Desktop\\Slidely-AI-Internship-Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28FAFD31-2003-4763-B14B-EF1FB39FA55B}|Slidely AI Task 2.vbproj|C:\\Users\\Dell 5408 10i5\\OneDrive\\Desktop\\Slidely-AI-Internship-Task\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{28FAFD31-2003-4763-B14B-EF1FB39FA55B}|Slidely AI Task 2.vbproj|solutionrelative:my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28FAFD31-2003-4763-B14B-EF1FB39FA55B}|Slidely AI Task 2.vbproj|C:\\Users\\Dell 5408 10i5\\OneDrive\\Desktop\\Slidely-AI-Internship-Task\\applicationevents.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{28FAFD31-2003-4763-B14B-EF1FB39FA55B}|Slidely AI Task 2.vbproj|solutionrelative:applicationevents.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28FAFD31-2003-4763-B14B-EF1FB39FA55B}|Slidely AI Task 2.vbproj|c:\\users\\dell 5408 10i5\\onedrive\\desktop\\slidely-ai-internship-task\\viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{28FAFD31-2003-4763-B14B-EF1FB39FA55B}|Slidely AI Task 2.vbproj|solutionrelative:viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28FAFD31-2003-4763-B14B-EF1FB39FA55B}|Slidely AI Task 2.vbproj|c:\\users\\dell 5408 10i5\\onedrive\\desktop\\slidely-ai-internship-task\\backend.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{28FAFD31-2003-4763-B14B-EF1FB39FA55B}|Slidely AI Task 2.vbproj|solutionrelative:backend.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28FAFD31-2003-4763-B14B-EF1FB39FA55B}|Slidely AI Task 2.vbproj|C:\\Users\\Dell 5408 10i5\\OneDrive\\Desktop\\Slidely-AI-Internship-Task\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{28FAFD31-2003-4763-B14B-EF1FB39FA55B}|Slidely AI Task 2.vbproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28FAFD31-2003-4763-B14B-EF1FB39FA55B}|Slidely AI Task 2.vbproj|C:\\Users\\Dell 5408 10i5\\OneDrive\\Desktop\\Slidely-AI-Internship-Task\\viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{28FAFD31-2003-4763-B14B-EF1FB39FA55B}|Slidely AI Task 2.vbproj|solutionrelative:viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28FAFD31-2003-4763-B14B-EF1FB39FA55B}|Slidely AI Task 2.vbproj|C:\\Users\\Dell 5408 10i5\\OneDrive\\Desktop\\Slidely-AI-Internship-Task\\createsubmission.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{28FAFD31-2003-4763-B14B-EF1FB39FA55B}|Slidely AI Task 2.vbproj|solutionrelative:createsubmission.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28FAFD31-2003-4763-B14B-EF1FB39FA55B}|Slidely AI Task 2.vbproj|C:\\Users\\Dell 5408 10i5\\OneDrive\\Desktop\\Slidely-AI-Internship-Task\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{28FAFD31-2003-4763-B14B-EF1FB39FA55B}|Slidely AI Task 2.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViewSubmissionsForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell 5408 10i5\\OneDrive\\Desktop\\Slidely-AI-Internship-Task\\ViewSubmissionsForm.vb",
+              "RelativeDocumentMoniker": "ViewSubmissionsForm.vb",
+              "ToolTip": "C:\\Users\\Dell 5408 10i5\\OneDrive\\Desktop\\Slidely-AI-Internship-Task\\ViewSubmissionsForm.vb [Design]",
+              "RelativeToolTip": "ViewSubmissionsForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T20:01:08.342Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\Dell 5408 10i5\\OneDrive\\Desktop\\Slidely-AI-Internship-Task\\packages.config",
+              "RelativeDocumentMoniker": "packages.config",
+              "ToolTip": "C:\\Users\\Dell 5408 10i5\\OneDrive\\Desktop\\Slidely-AI-Internship-Task\\packages.config",
+              "RelativeToolTip": "packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-20T15:38:45.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "backend.ts",
+              "DocumentMoniker": "C:\\Users\\Dell 5408 10i5\\OneDrive\\Desktop\\Slidely-AI-Internship-Task\\backend.ts",
+              "RelativeDocumentMoniker": "backend.ts",
+              "ToolTip": "C:\\Users\\Dell 5408 10i5\\OneDrive\\Desktop\\Slidely-AI-Internship-Task\\backend.ts",
+              "RelativeToolTip": "backend.ts",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAYwBIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-20T08:26:31.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationEvents.vb",
+              "DocumentMoniker": "C:\\Users\\Dell 5408 10i5\\OneDrive\\Desktop\\Slidely-AI-Internship-Task\\ApplicationEvents.vb",
+              "RelativeDocumentMoniker": "ApplicationEvents.vb",
+              "ToolTip": "C:\\Users\\Dell 5408 10i5\\OneDrive\\Desktop\\Slidely-AI-Internship-Task\\ApplicationEvents.vb",
+              "RelativeToolTip": "ApplicationEvents.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T17:04:27.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Application.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\Dell 5408 10i5\\OneDrive\\Desktop\\Slidely-AI-Internship-Task\\My Project\\Application.Designer.vb",
+              "RelativeDocumentMoniker": "My Project\\Application.Designer.vb",
+              "ToolTip": "C:\\Users\\Dell 5408 10i5\\OneDrive\\Desktop\\Slidely-AI-Internship-Task\\My Project\\Application.Designer.vb",
+              "RelativeToolTip": "My Project\\Application.Designer.vb",
+              "ViewState": "AQIAABMAAAAAAAAAAAAmwAgAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T17:04:44.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ViewSubmissionsForm.vb",
+              "DocumentMoniker": "C:\\Users\\Dell 5408 10i5\\OneDrive\\Desktop\\Slidely-AI-Internship-Task\\ViewSubmissionsForm.vb",
+              "RelativeDocumentMoniker": "ViewSubmissionsForm.vb",
+              "ToolTip": "C:\\Users\\Dell 5408 10i5\\OneDrive\\Desktop\\Slidely-AI-Internship-Task\\ViewSubmissionsForm.vb",
+              "RelativeToolTip": "ViewSubmissionsForm.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T14:52:27.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateSubmission.vb",
+              "DocumentMoniker": "C:\\Users\\Dell 5408 10i5\\OneDrive\\Desktop\\Slidely-AI-Internship-Task\\CreateSubmission.vb",
+              "RelativeDocumentMoniker": "CreateSubmission.vb",
+              "ToolTip": "C:\\Users\\Dell 5408 10i5\\OneDrive\\Desktop\\Slidely-AI-Internship-Task\\CreateSubmission.vb",
+              "RelativeToolTip": "CreateSubmission.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T15:08:03.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\Dell 5408 10i5\\OneDrive\\Desktop\\Slidely-AI-Internship-Task\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\Dell 5408 10i5\\OneDrive\\Desktop\\Slidely-AI-Internship-Task\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAEAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T14:25:13.838Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
